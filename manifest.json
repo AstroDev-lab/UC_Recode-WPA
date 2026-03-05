@@ -1,0 +1,21 @@
+{
+    "name": "UC_Recode v16Alpha",
+    "short_name": "UC Recode!",
+    "start_url": "Index.html",
+    "display": "standalone",
+    "background": "#000000",
+    "theme_color": "#000000",
+    "orientation": "landscape"
+    "icons": [
+        {
+            "src": "Appicon.png",
+            "sizes": "192x192",
+            "type": "image/png",
+        }
+        {
+            "src": "Appicon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+        }
+    ]
+}
